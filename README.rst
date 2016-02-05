@@ -105,9 +105,9 @@ OpenStack ``nova`` is also extended to get more experience.
 'Hello Big Data' Flask Web Framework
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Find a ``flask`` directory in your assignment repository. We provide
-``hello.py`` python file and you can run the file in your VM but there are a few
-requirements that we request::
+Find a ``flask`` sub-directory in ``challange`` directory in your assignment
+repository.  We provide ``hello.py`` python file and you can run the file in
+your VM but there are a few requirements that we request::
 
    * Use virtualenv named 'bdossp-sp16' in your home directory
    * Open a web port to the Flask application to allow access from outside
@@ -128,6 +128,16 @@ requirements that we request::
 4. ``flask`` rule is provided in *fg491* project. What ``nova`` command(s) do
    you need to see current rule(s) in the security group and to apply it to
    your VM?
+
+Write your solution in the name of ``flask-sol.txt`` text file after completing
+the tasks above. 
+
+Example view of your submission::
+
+  1. albert
+  2. ...
+  3. ...
+  9. http://... 
 
 .. comment::
 
