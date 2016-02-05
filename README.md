@@ -1,2 +1,0 @@
-# assignments
-Template for Assignments
