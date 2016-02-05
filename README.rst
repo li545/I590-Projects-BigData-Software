@@ -31,7 +31,7 @@ are:
    * on ``fg491`` project
    * with a ``m1.small`` flavor,
    * a ``Ubuntu-15.10-64`` image,
-   * the registered key,
+   * the registered key above,
    * and ``hw3-$OS_USERNAME`` vm name
    * Assign a Floating IP address
 * Install required software on a virtual instance
