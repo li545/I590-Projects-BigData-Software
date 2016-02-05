@@ -1,7 +1,7 @@
 import unittest
 import os
 import subprocess as sub
-import utils
+from lib import utils
 
 subject = "hw3"
 outputs = []
